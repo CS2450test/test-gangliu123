@@ -1,7 +1,7 @@
 def add(a, b):
     # TODO: Implement addition
-    return None
+    return a + b
 
 def subtract(a, b):
     # TODO: Implement subtraction
-    return None
+    return a - b
